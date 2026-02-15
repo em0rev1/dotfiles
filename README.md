@@ -3,6 +3,7 @@ This repo is intended for setting up portable configurations across multiple pla
 
 The current version includes configurations for
 * tmux
+* some (hopefully) useful aliases in bash
 
 More awaiting...
 
