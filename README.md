@@ -12,5 +12,7 @@ For now only manual installation is supported. This means cloning the repository
 ``` git clone https://github.com/em0rev1/dotfiles.git ~/.dotfiles ```
 Then
 ``` source ~/.dotfiles/install.sh ```
+and 
+``` source ~/.bashrc ```
 
 [//]: # (``` ln -s ~/.dotfiles/vim/.tmux.conf ~/.tmux.conf ```)
