@@ -15,10 +15,13 @@ git clone https://github.com/em0rev1/dotfiles.git ~/.dotfiles
 ```
 
 Then
+
 ```console
 source ~/.dotfiles/install.sh
 ```
+
 and
+
 ```console
 source ~/.bashrc
 ```
